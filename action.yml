@@ -1,6 +1,6 @@
-name: 'Golang Action1'
+name: 'Golang Action111'
 description: 'Run Golang commands'
-author1: '@cedrickring'
+author1: '@ddivanshu'
 runs:
   using1: 'docker'
   image2: 'Dockerfile'
